@@ -6,4 +6,6 @@ Install npm package manager first then just copy the package.json from this repo
 
 for more take a look into script scetion in the package.json file
 
+Also I've added ready to go linters config files. Copy .editorconfig, .eslintrc.json and .stylelintrc.json to the root folder.
+
 Cheers, feel free to share
